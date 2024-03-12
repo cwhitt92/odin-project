@@ -1,3 +1,2 @@
 # odin-project
-Repo for The Odin Project projects and progress tracking
-Hello Odin!
+Repo for projects from The Odin Project and tracking progress in web development
